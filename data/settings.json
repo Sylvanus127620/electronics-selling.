@@ -1,0 +1,166 @@
+{
+  "updated": "2026-11-03",
+  "business": {
+    "name": "ELECTRONICS SELLING",
+    "tagline": "Electronics you can trust, priced honestly.",
+    "phone": "+1 (512) 555-0148",
+    "whatsapp": "15125550148",
+    "whatsappMessage": "Hello ELECTRONICS SELLING, I would like to ask about a product.",
+    "email": "sales@electronicsselling.com",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "address": "1200 Circuit Avenue, Suite 14, Austin, TX 78701, United States",
+    "hours": "Mon–Sat 9:00–20:00 · Sun 11:00–17:00",
+    "mapQuery": "1200 Congress Ave, Austin, TX 78701",
+    "announcement": "Free same-week delivery on orders over $150 · 24-month warranty on selected lines",
+    "social": {
+      "facebook": "https://facebook.com/",
+      "instagram": "https://instagram.com/",
+      "x": "https://x.com/",
+      "youtube": "https://youtube.com/",
+      "tiktok": "https://tiktok.com/"
+    }
+  },
+  "hero": {
+    "kicker": "New season · 2026 collection",
+    "titleLine1": "Premium electronics,",
+    "titleHighlight": "priced honestly.",
+    "lead": "Phones, laptops, televisions, audio and accessories — inspected before dispatch, covered by warranty, and supported by people who actually answer the phone.",
+    "banner": "images/banners/hero.svg",
+    "primaryCta": {
+      "label": "Shop all products",
+      "href": "#products"
+    },
+    "secondaryCta": {
+      "label": "Talk to us on WhatsApp",
+      "href": "whatsapp"
+    },
+    "badge": {
+      "title": "Free next-day delivery",
+      "text": "On orders above $150"
+    },
+    "tag": "24-month warranty"
+  },
+  "stats": [
+    {
+      "value": "12k+",
+      "label": "Orders delivered"
+    },
+    {
+      "value": "4.9/5",
+      "label": "Average rating"
+    },
+    {
+      "value": "24 mo",
+      "label": "Warranty on selected lines"
+    },
+    {
+      "value": "48 h",
+      "label": "Average dispatch time"
+    }
+  ],
+  "categories": [
+    {
+      "id": "smartphones",
+      "name": "Smartphones",
+      "desc": "Flagship, mid-range and compact 5G phones",
+      "icon": "phone"
+    },
+    {
+      "id": "laptops",
+      "name": "Laptops & Computers",
+      "desc": "Ultrabooks, workstations and accessories",
+      "icon": "laptop"
+    },
+    {
+      "id": "televisions",
+      "name": "Televisions",
+      "desc": "4K, QLED and OLED panels from 43\" to 75\"",
+      "icon": "tv"
+    },
+    {
+      "id": "audio",
+      "name": "Speakers & Headphones",
+      "desc": "ANC headphones, earbuds and portable speakers",
+      "icon": "audio"
+    },
+    {
+      "id": "accessories",
+      "name": "Chargers & Accessories",
+      "desc": "GaN chargers, power banks and cables",
+      "icon": "plug"
+    },
+    {
+      "id": "equipment",
+      "name": "Electronic Equipment",
+      "desc": "Routers, cameras, meters and test gear",
+      "icon": "chip"
+    }
+  ],
+  "about": {
+    "heading": "A specialist shop, not a marketplace",
+    "body": "ELECTRONICS SELLING started as a two-person repair bench and grew into a retail showroom. We stock a deliberately narrow range: the models we would buy ourselves, tested on the bench before they reach the shelf. Every order is checked, photographed and packed by our team, and every warranty claim is handled in-house rather than forwarded to a distant distributor.",
+    "list": [
+      "Every unit bench-tested and charged before dispatch",
+      "24-month warranty on selected lines, handled in-house",
+      "Transparent pricing — no surprise fees at checkout",
+      "Real support over WhatsApp, phone and email"
+    ]
+  },
+  "offers": [
+    {
+      "id": "offer-flagship",
+      "tag": "Bundle deal",
+      "title": "Flagship phone + 65W GaN charger",
+      "text": "Pair any Aura or Nova handset with the VoltCharge 65W and save on the pair. Applied automatically at checkout.",
+      "price": "918",
+      "oldPrice": "1,068",
+      "code": "BUNDLE65",
+      "style": "navy",
+      "published": true,
+      "link": "#products"
+    },
+    {
+      "id": "offer-audio",
+      "tag": "Limited",
+      "title": "Audio week: 25% off PulseBuds Pro",
+      "text": "Hybrid ANC, 42-hour case and multipoint Bluetooth — while stock lasts.",
+      "price": "149",
+      "oldPrice": "199",
+      "code": "AUDIO25",
+      "style": "blue",
+      "published": true,
+      "link": "product.html?id=pulsebuds-pro"
+    },
+    {
+      "id": "offer-tv",
+      "tag": "Showroom",
+      "title": "65\" OLED with free wall mount",
+      "text": "Includes professional wall-mount kit and setup on delivery within the metro area.",
+      "price": "1,499",
+      "oldPrice": "1,799",
+      "code": "OLED65",
+      "style": "navy",
+      "published": true,
+      "link": "product.html?id=lumina-65-oled"
+    },
+    {
+      "id": "offer-accessory",
+      "tag": "Add-on",
+      "title": "Spend $150, ship free",
+      "text": "Applies to every accessory order. No code required.",
+      "price": "",
+      "oldPrice": "",
+      "code": "FREESHIP",
+      "style": "blue",
+      "published": true,
+      "link": "#products"
+    }
+  ],
+  "announcements": [
+    "Free same-week delivery on orders over $150",
+    "24-month warranty on selected lines",
+    "In-store pickup available in Austin",
+    "WhatsApp support 9:00–20:00"
+  ]
+}
